@@ -3,7 +3,7 @@ This application goes though Tor's secret services and categorizes them. Additio
 NOTE:
 	- Required Files:
 		- Tor_Forensics.py
-		- requirenments.txt
+		- requirements.txt
 		
 	- Prerequisites:
 		- Python 3.9 or higher
